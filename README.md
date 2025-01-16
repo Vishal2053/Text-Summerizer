@@ -1,4 +1,4 @@
-# TextSummarizer USing Huggingface
+# Text Summarizer Using Huggingface
 
 ### Workflows 
 
